@@ -3366,3 +3366,22 @@ input, select, textarea {
 			
 
 		}
+
+		/* Eztra edits */
+
+			 .container {
+            			display: flex;
+            			justify-content: space-between;
+            			flex-wrap: wrap;
+            			max-width: 800px; /* Adjust the width as needed */
+            			margin: 0 auto;
+        	}
+
+        		.column {
+           			 width: 30%; /* Adjust the width as needed */
+        	}
+
+        		ul {
+            			list-style-type: none;
+            			padding: 0;
+       	 	}
