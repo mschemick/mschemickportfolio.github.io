@@ -3366,3 +3366,11 @@ input, select, textarea {
 			
 
 		}
+
+ ul {
+            list-style-type: none;
+            padding: 0;
+            display: inline-block;
+            vertical-align: top; /* Align the lists at the top */
+            margin-right: 20px; /* Add some margin between lists */
+        }
