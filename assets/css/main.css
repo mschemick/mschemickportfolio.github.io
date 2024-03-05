@@ -3374,3 +3374,25 @@ input, select, textarea {
             vertical-align: top; /* Align the lists at the top */
             margin-right: 20px; /* Add some margin between lists */
         }
+
+.containerlist {
+	display: flex;
+	column-gap: 10px:
+}
+
+.list1 {
+	height: 20px;
+	width: 20px;
+}
+
+.list2 {
+	height: 20px;
+	width: 20px;
+}
+
+.list3 {
+	height: 20px;
+	width: 20px;
+}
+
+
