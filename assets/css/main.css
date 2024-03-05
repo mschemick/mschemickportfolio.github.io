@@ -3377,21 +3377,21 @@ input, select, textarea {
 
 .containerlist {
 	display: flex;
-	column-gap: 10px:
+	column-gap: 100px:
 }
 
 .list1 {
-	height: 20px;
+	height: 200px;
 	width: 200px;
 }
 
 .list2 {
-	height: 20px;
+	height: 200px;
 	width: 200px;
 }
 
 .list3 {
-	height: 20px;
+	height: 200px;
 	width: 200px;
 }
 
