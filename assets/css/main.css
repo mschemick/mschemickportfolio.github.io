@@ -3395,4 +3395,8 @@ input, select, textarea {
 	width: 200px;
 }
 
+.streamlit {
+	text-align: center;
+
+}
 
