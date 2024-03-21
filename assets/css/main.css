@@ -3397,6 +3397,7 @@ input, select, textarea {
 
 .streamlit {
 	text-align: center;
-
+	position: absolute;
+	left: 50%
 }
 
