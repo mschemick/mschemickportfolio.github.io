@@ -235,7 +235,7 @@ input, select, textarea {
 				}
 
 		}
-
+/*
 		@media screen and (max-width: 736px) {
 
 			.container {
@@ -246,7 +246,7 @@ input, select, textarea {
 					width: 100%;
 				}
 
-		}
+*/		}
 
 /* Row */
 
@@ -1471,6 +1471,8 @@ input, select, textarea {
 
 		}
 
+/*
+
 		@media screen and (max-width: 736px) {
 
 			.row {
@@ -1715,7 +1717,7 @@ input, select, textarea {
 						}
 
 		}
-
+*/
 /* Section/Article */
 
 	section.special, article.special {
