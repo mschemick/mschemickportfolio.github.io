@@ -188,7 +188,7 @@ input, select, textarea {
 			width: 1050px;
 		}
 
-		@media screen and (max-width: 1680px) {
+/*		@media screen and (max-width: 1680px) {
 
 			.container {
 				width: 1200px;
@@ -247,7 +247,7 @@ input, select, textarea {
 				}
 
 		}
-
+*/
 /* Row */
 
 	.row {
@@ -491,7 +491,7 @@ input, select, textarea {
 					padding-top: 100px;
 				}
 
-		@media screen and (max-width: 1680px) {
+/*		@media screen and (max-width: 1680px) {
 
 			.row {
 				display: flex;
@@ -1717,7 +1717,7 @@ input, select, textarea {
 						}
 
 		}
-
+*/
 /* Section/Article */
 
 	section.special, article.special {
