@@ -3397,4 +3397,16 @@ input, select, textarea {
 	width: 200px;
 }
 
+.image-contanier img{
+	display: block:
+}
+
+.image-title {
+	position: absolute;
+	bottom: 10px;
+	left: 10px;
+	color: white;
+	font-size: 24px;
+	font-weight: bold;
+}
 
